@@ -1,3 +1,2 @@
 # GGS
-The codes of GGS algorithm
-We will upload the relevant code once the paper has been accepted
+Should our paper be accepted for publication, we will upload the source code to this repository, thereby facilitating access to our implementation details for the scientific community.
